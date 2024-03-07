@@ -46,3 +46,6 @@ justify-content: space-between;
 .calc-button button:hover{
     background-color: rgb(64, 128, 247);
 }
+.calc button{
+    background-color: rgb(199, 240, 18);
+}
